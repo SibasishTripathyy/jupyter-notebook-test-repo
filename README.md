@@ -1,5 +1,5 @@
 # jupyter-notebook-test-repo
-Just testing how to notebook looks in github
+Just testing how a notebook looks in github
 
 To see the notebook with enabled Javascript and all other funtionalities just go to
 
