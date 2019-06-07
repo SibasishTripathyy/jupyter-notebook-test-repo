@@ -10,3 +10,7 @@ and paste this link:-
 https://github.com/SibasishTripathyy/jupyter-notebook-test-repo/blob/master/Test%20upload.ipynb
 
 Adding a random new line.
+
+Adding random stuff
+- [x] Stuff 1
+- [ ] Stuff 2
