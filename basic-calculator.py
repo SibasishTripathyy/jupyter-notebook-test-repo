@@ -15,3 +15,5 @@ choice = int(input())
 
 if choice == 1:
     sum()
+elif choice == 2:
+    diff()
