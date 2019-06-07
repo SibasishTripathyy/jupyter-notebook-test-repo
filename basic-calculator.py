@@ -19,7 +19,7 @@ def div():
     b = int(input("Enter b: "))
     print("Sum: " + str(a * b))
 
-int(input("Enter a: "))
+a = int(input("Enter a: "))
 b = int(input("Enter b: "))
 print("Sum: " + str(a / b))
 
